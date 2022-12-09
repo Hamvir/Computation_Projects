@@ -1,4 +1,6 @@
+---
 mathjax: true
+---
 # LINEAR REGRESSION
 
 ## Problem Statement
