@@ -4,7 +4,7 @@ mathjax: true
 # Principal Component Analysis
 
 ## Problem Statement
-You are given a matrix $$A ∈ R_{m×n}$$ and are required to run a PCA on this matrix to reduce its dimension(feature) from n to k, where k is user input.
+You are given a matrix $$A ∈ R^{m×n}$$ and are required to run a PCA on this matrix to reduce its dimension(feature) from n to k, where k is user input.
 
 ## Input format:
 Create a function so that it returns m number of strings of following format:
