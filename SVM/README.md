@@ -18,7 +18,7 @@ $$w^{opt},b^{opt}= arg min \ 1/2 \  ||w_2^2||$$
 $$s.t. \ \ y_i(w^T x_i + b) >=1 \ \ \ \ \ \ for \ i = 1,....,N$$
 We have solved this primal problem in the code to find the optimum w and b.
 We can also solve its dual problem to find optimum w and b, the dual problem is:
-$$g(\Lambda) \ = \ \Lambda^Tb \ + \ 1/2 \ \Lambda^TA\Lambda$$
+$$g(\Lambda) \ = \ \Lambda^TB \ + \ 1/2 \ \Lambda^TA\Lambda$$
 $$\Lambda \ = \(\lambda_1,....\lambda_k)$$
 
 We can also show:
