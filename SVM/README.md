@@ -26,6 +26,8 @@ $$\sum_{i:y_i=1}\lambda_i \ = \ \sum_{i:y_i=-1}\lambda_i \ = \ \gamma$$
 
 We can also check dual function value = primal function value thus satisfying strong duality.
 
+I have also uploaded a pdf file decribing how dual function is derived from primal function you can check that for further info.
+
 ## How to use:
 >Download the py file.
 
